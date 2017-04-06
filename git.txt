@@ -1,0 +1,17 @@
+//
+GIT sign in
+
+GIT PUSH (Add files)
+
+GIT PULL (Update files)
+
+GIT ADD (Replace/removing files)
+
+GIT COMMIT (and TS message)
+
+//
+Setup Gihub Repo & GIT INIT
+
+GIT COLLAB (Add collaborators)
+
+COLLAB PULL (Pull Request by collaborators)
